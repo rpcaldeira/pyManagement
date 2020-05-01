@@ -1,6 +1,6 @@
 import psutil
 
-class WindowsService(object):
+class WindowsService:
     pass
 
 def get_service(name):

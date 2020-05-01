@@ -16,7 +16,7 @@ setup(
     description='Python-based operating system management service',
     long_description=readme,
     author='Rui Pedro Caldeira',
-    author_email='pymanagement@rpcnet.net',
+    author_email='opensource@rpcnet.net',
     url='https://github.com/rpcaldeira/pyManagement',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
