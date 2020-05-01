@@ -1,5 +1,8 @@
 import psutil
 
+class WindowsService(object):
+    pass
+
 def get_service(name):
     service = None
     try:
